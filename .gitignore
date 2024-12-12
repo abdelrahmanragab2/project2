@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Tailwind CSS build artifacts
+dist/
+
+# Temporary files
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE or Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
